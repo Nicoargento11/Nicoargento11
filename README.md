@@ -14,5 +14,5 @@
 🌟 Creo que la clave del éxito en el desarrollo web es mantenerse curioso, seguir aprendiendo y abrazar nuevos desafíos. Destaco que gracias a mi competitividad he llegado hasta donde estoy hoy, siempre tratando de dar un poco más y nunca conformándome con resultados por debajo de lo esperado.
 
 ## Contacto 📞
-- 🐙 GitHub: https://github.com/Nicoargento11
+- 🔗 linkedin: linkedin.com/in/nicolas-valdes-571172168
 - 📧 Correo electrónico: valdes.nicoedu@gmail.com
