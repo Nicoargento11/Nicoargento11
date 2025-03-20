@@ -3,9 +3,9 @@
 👨‍💻 Soy un apasionado por la tecnología desde que era chico, he explorado varios campos durante años y después de ver innumerables videos e información, descubrí el desarrollo web y decidí tomar un curso completo para entender todos sus aspectos. Actualmente, me siento seguro en mi capacidad para enfrentar cualquier desafío en el mundo de la tecnología.
 
 ## Tech Skills 💪
-- 🎨 Front End: JavaScript, React, Redux, Tailwind CSS, HTML, CSS 
-- 🔙 Back End: Node.js, Express 
-- 🗄️ Database: PostgreSQL, Sequelize, Firebase.
+- 🎨 Front End: JavaScript, Typescript, React, Nextjs, Redux, TailwindCSS 
+- 🔙 Back End: Node.js, Express, Jwt 
+- 🗄️ Database: PostgreSQL, mongoDb, Sequelize, Prisma, Firebase.
 
 🚀 He trabajado en varios proyectos personales de desarrollo web, pero los más significativos fueron un proyecto individual donde apliqué todos los conocimientos aprendidos y un proyecto grupal que nos propuso un verdadero reto a la hora de trabajar con diferentes personas. Destaco especialmente el proyecto grupal porque nos enfocamos en solucionar un problema en la vida real.
 
