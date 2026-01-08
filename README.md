@@ -41,12 +41,13 @@
 
   <br/>
 
-  <h3>📊 GitHub Stats</h3>
-<p>
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nicoargento11&show_icons=true&theme=dracula&hide_border=true" alt="Nico's GitHub Stats" height="180" />
-  
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nicoargento11&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
-</p>
+<h3>📊 GitHub Stats</h3>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicoargento11&theme=dracula" alt="Profile Details" />
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicoargento11&theme=dracula" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicoargento11&theme=dracula" alt="Stats Card" />
+  </p>
   
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicoargento11&theme=dracula&hide_border=true" alt="GitHub Streak" />
