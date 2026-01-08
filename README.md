@@ -43,12 +43,12 @@
 
   <h3>📊 GitHub Stats</h3>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dracula&hide_border=true" alt="Nico's GitHub Stats" height="180" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoargento11&show_icons=true&theme=dracula&hide_border=true" alt="Nico's GitHub Stats" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoargento11&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
   </p>
   
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicoargento11&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </p>
 
   <br/>
@@ -56,5 +56,14 @@
   <h3>⚡ Fun Fact</h3>
   <p><i>"Aplico la mentalidad del deporte al código: la consistencia le gana a la intensidad."</i></p>
   <img src="https://media.giphy.com/media/2IudUHdI075HL0u2km/giphy.gif" width="200" alt="Coding Gif" />
+
+  <h3>🐍 Mis Contribuciones</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicoargento11/nicoargento11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoargento11/nicoargento11/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicoargento11/nicoargento11/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 </div>
