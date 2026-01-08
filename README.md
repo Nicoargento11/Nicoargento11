@@ -1,43 +1,60 @@
-# Hola, soy Nico
+<div align="center">
 
-👨‍💻 Soy un apasionado por la tecnología desde que era chico, he explorado varios campos durante años y después de ver innumerables videos e información, descubrí el desarrollo web y decidí tomar un curso completo para entender todos sus aspectos. Actualmente, me siento seguro en mi capacidad para enfrentar cualquier desafío en el mundo de la tecnología.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Nico;Full+Stack+Developer;Tech+Enthusiast;Sports+%26+Code" alt="Typing SVG" />
 
-## Tech Skills 💪
-- 🎨 Front End: JavaScript, Typescript, React, Nextjs, Redux, TailwindCSS 
-- 🔙 Back End: Node.js, Express, Jwt 
-- 🗄️ Database: PostgreSQL, mongoDb, Sequelize, Prisma, Firebase.
+  <br/>
 
-🚀 He trabajado en varios proyectos personales de desarrollo web, pero los más significativos fueron un proyecto individual donde apliqué todos los conocimientos aprendidos y un proyecto grupal que nos propuso un verdadero reto a la hora de trabajar con diferentes personas. Destaco especialmente el proyecto grupal porque nos enfocamos en solucionar un problema en la vida real.
+  <p>
+    Soy un apasionado por la tecnología que transformó su curiosidad en una carrera profesional. 
+    Combino la <b>disciplina y constancia del deporte</b> 🏀 con la resolución de problemas lógicos del desarrollo web.
+    <br/>
+    Me especializo en crear soluciones reales, escalables y eficientes.
+  </p>
 
-🏀 Como pasatiempo, me gusta combinar la tecnología con el deporte. Encuentro un buen equilibrio entre estas dos partes y he descubierto que toda la constancia y dedicación que pongo en el deporte, puedo usarla en el desarrollo web. Tomo el deporte como una forma de distenderme y volver recargado para una larga sesión de trabajo.
+  <p>
+    <a href="https://www.linkedin.com/in/nicolas-valdes-571172168" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:valdes.nicoedu@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-🌟 Creo que la clave del éxito en el desarrollo web es mantenerse curioso, seguir aprendiendo y abrazar nuevos desafíos. Destaco que gracias a mi competitividad he llegado hasta donde estoy hoy, siempre tratando de dar un poco más y nunca conformándome con resultados por debajo de lo esperado.
+  <br/>
 
-<br/>  
+  <h3>🛠️ Tech Stack</h3>
 
-## Contacto 📞
-- 🔗 linkedin: https://www.linkedin.com/in/nicolas-valdes-571172168
-- 📧 Correo electrónico: valdes.nicoedu@gmail.com
+  <p><b>Frontend</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,styledcomponents&theme=dark" alt="Frontend Skills" />
+  </p>
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>  
+  <p><b>Backend & Databases</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,sequelize,prisma&theme=dark" alt="Backend Skills" />
+  </p>
 
-<br/>  
+  <p><b>Tools</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,figma,bash,webpack&theme=dark" alt="Tools" />
+  </p>
+
+  <br/>
+
+  <h3>📊 GitHub Stats</h3>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dracula&hide_border=true" alt="Nico's GitHub Stats" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </p>
+
+  <br/>
+
+  <h3>⚡ Fun Fact</h3>
+  <p><i>"Aplico la mentalidad del deporte al código: la consistencia le gana a la intensidad."</i></p>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL0u2km/giphy.gif" width="200" alt="Coding Gif" />
+
+</div>
