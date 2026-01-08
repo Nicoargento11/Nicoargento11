@@ -55,15 +55,17 @@
 
   <h3>⚡ Fun Fact</h3>
   <p><i>"Aplico la mentalidad del deporte al código: la consistencia le gana a la intensidad."</i></p>
-  <img src="https://media.giphy.com/media/2IudUHdI075HL0u2km/giphy.gif" width="200" alt="Coding Gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Gif" />
+
+  <br/>
 
   <h3>🐍 Mis Contribuciones</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicoargento11/nicoargento11/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicoargento11/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicoargento11/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicoargento11/Nicoargento11/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicoargento11/Nicoargento11/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicoargento11/Nicoargento11/output/github-contribution-grid-snake.svg">
+    </picture>
+  </p>
 
 </div>
