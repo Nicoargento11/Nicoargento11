@@ -43,12 +43,12 @@
 
   <h3>📊 GitHub Stats</h3>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoargento11&show_icons=true&theme=dracula&hide_border=true" alt="Nico's GitHub Stats" height="180" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoargento11&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicoargento11&show_icons=true&theme=dracula&hide_border=true" alt="Nico's GitHub Stats" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoargento11&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
   </p>
   
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicoargento11&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicoargento11&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </p>
 
   <br/>
@@ -60,9 +60,9 @@
   <h3>🐍 Mis Contribuciones</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicoargento11/nicoargento11/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoargento11/nicoargento11/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicoargento11/nicoargento11/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicoargento11/nicoargento11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicoargento11/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicoargento11/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
